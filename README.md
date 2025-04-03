@@ -60,6 +60,14 @@ For any questions or feedback, feel free to reach out:
 
 ---
 
+### 🔹 **Key Fixes & Improvements in This Version:**  
+✅ **Fixed the broken "Folder Structure" section** (added closing triple backticks).  
+✅ **Reformatted "License" and "Contact" sections for consistency.**  
+✅ **Added a "How to Contribute" section** (encourages collaboration).  
+✅ **Ensured smooth Markdown rendering** by fixing minor formatting issues.  
+
+---
+
 ## 📂 Folder Structure  
 Understanding the project structure will help navigate the repository easily:  
 
@@ -72,15 +80,3 @@ Understanding the project structure will help navigate the repository easily:
  ┣ 📜 Project-1.pbix   # Power BI Dashboard  
  ┣ 📜 README.md        # Project Documentation  
  ┣ 📜 LICENSE          # MIT License  
-
----
-
----
-
-### 🔹 **Key Fixes & Improvements in This Version:**  
-✅ **Fixed the broken "Folder Structure" section** (added closing triple backticks).  
-✅ **Reformatted "License" and "Contact" sections for consistency.**  
-✅ **Added a "How to Contribute" section** (encourages collaboration).  
-✅ **Ensured smooth Markdown rendering** by fixing minor formatting issues.  
-
----
