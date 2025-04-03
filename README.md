@@ -38,6 +38,14 @@ Unlike traditional data science projects that involve coding, this project relie
 No programming or database management tools were used in this project.  
 
 ---
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+For any questions or feedback, feel free to reach out:
+- **Email**: analyticswithneha@gmail.com
+
+---
 
 ## 📂 Folder Structure  
 Understanding the project structure will help navigate the repository easily:  
@@ -51,10 +59,3 @@ Understanding the project structure will help navigate the repository easily:
  ┣ 📜 Project-1.pbix   # Power BI Dashboard  
  ┣ 📜 README.md        # Project Documentation  
  ┣ 📜 LICENSE          # MIT License  
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-For any questions or feedback, feel free to reach out:
-- **Email**: analyticswithneha@gmail.com
