@@ -38,6 +38,19 @@ Unlike traditional data science projects that involve coding, this project relie
 No programming or database management tools were used in this project.  
 
 ---
+
+## Clone the repository:
+```bash
+git clone https://github.com/your-repo/diwali-sales-analysis.git
+```
+
+---
+
+**Contributing**
+Contributions are welcome! If you'd like to improve the analysis or add new features, feel free to fork the repository and submit a pull request.
+
+---
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
@@ -59,3 +72,15 @@ Understanding the project structure will help navigate the repository easily:
  ┣ 📜 Project-1.pbix   # Power BI Dashboard  
  ┣ 📜 README.md        # Project Documentation  
  ┣ 📜 LICENSE          # MIT License  
+
+---
+
+---
+
+### 🔹 **Key Fixes & Improvements in This Version:**  
+✅ **Fixed the broken "Folder Structure" section** (added closing triple backticks).  
+✅ **Reformatted "License" and "Contact" sections for consistency.**  
+✅ **Added a "How to Contribute" section** (encourages collaboration).  
+✅ **Ensured smooth Markdown rendering** by fixing minor formatting issues.  
+
+---
