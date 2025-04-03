@@ -56,15 +56,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any questions or feedback, feel free to reach out:
+- **Name**: Neha Chauhan
 - **Email**: analyticswithneha@gmail.com
-
----
-
-### 🔹 **Key Fixes & Improvements in This Version:**  
-✅ **Fixed the broken "Folder Structure" section** (added closing triple backticks).  
-✅ **Reformatted "License" and "Contact" sections for consistency.**  
-✅ **Added a "How to Contribute" section** (encourages collaboration).  
-✅ **Ensured smooth Markdown rendering** by fixing minor formatting issues.  
 
 ---
 
