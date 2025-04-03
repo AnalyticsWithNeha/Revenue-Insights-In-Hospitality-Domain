@@ -65,11 +65,8 @@ For any questions or feedback, feel free to reach out:
 Understanding the project structure will help navigate the repository easily:  
 
 ```plaintext
-📦 Revenue-Insights-In-Hospitality-Domain  
- ┣ 📂 input-files/  
- ┃ ┣ 📜 dim_date.csv  
- ┃ ┣ 📜 dim_hotels.csv  
- ┃ ┣ 📜 fact_bookings.csv  
+📦 Revenue-Insights-In-Hospitality-Domain   
  ┣ 📜 Project-1.pbix   # Power BI Dashboard  
  ┣ 📜 README.md        # Project Documentation  
- ┣ 📜 LICENSE          # MIT License  
+ ┣ 📜 LICENSE          # MIT License 
+ ┣ 📜 Contact Info     # Neha Chauhan
