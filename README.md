@@ -35,8 +35,6 @@ Unlike traditional data science projects that involve coding, this project relie
 | 📊 **Excel** | Data Cleaning, Preprocessing, Filtering, Pivot Tables |  
 | 📈 **Power BI** | Data Visualization, Interactive Dashboards, KPI Metrics |  
 
-No programming or database management tools were used in this project.  
-
 ---
 
 ## Clone the repository:
