@@ -37,6 +37,11 @@ Unlike traditional data science projects that involve coding, this project relie
 
 ---
 
+## 🖼️ Dashboard Screenshot
+Below is a preview of the interactive Power BI dashboard used in this project:
+
+![Dashboard Screenshot](dashboard-preview.png)
+
 ## Clone the repository:
 ```bash
 git clone https://github.com/AnalyticsWithNeha/Revenue-Insights-In-Hospitality-Domain.git
@@ -44,15 +49,15 @@ git clone https://github.com/AnalyticsWithNeha/Revenue-Insights-In-Hospitality-D
 
 ---
 
-**Contributing**
+## 🤝 Contributing
 Contributions are welcome! If you'd like to improve the analysis or add new features, feel free to fork the repository and submit a pull request.
 
 ---
 
-## License
+## 📄 License
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
+## 📬 Contact
 For any questions or feedback, feel free to reach out:
 - **Name**: Neha Chauhan
 - **Email**: analyticswithneha@gmail.com
@@ -67,4 +72,4 @@ Understanding the project structure will help navigate the repository easily:
  ┣ 📜 Project-1.pbix   # Power BI Dashboard  
  ┣ 📜 README.md        # Project Documentation  
  ┣ 📜 LICENSE          # MIT License 
- ┣ 📜 Contact Info     # Neha Chauhan
+```
