@@ -44,7 +44,7 @@ git clone https://github.com/AnalyticsWithNeha/Revenue-Insights-In-Hospitality-D
 
 ---
 
-**Contributing**
+##Contributing
 Contributions are welcome! If you'd like to improve the analysis or add new features, feel free to fork the repository and submit a pull request.
 
 ---
