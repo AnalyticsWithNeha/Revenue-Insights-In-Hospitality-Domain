@@ -49,7 +49,7 @@ git clone https://github.com/AnalyticsWithNeha/Revenue-Insights-In-Hospitality-D
 
 ---
 
-## 🤝 Contributing
+**Contributing**
 Contributions are welcome! If you'd like to improve the analysis or add new features, feel free to fork the repository and submit a pull request.
 
 ---
@@ -72,4 +72,4 @@ Understanding the project structure will help navigate the repository easily:
  ┣ 📜 Project-1.pbix   # Power BI Dashboard  
  ┣ 📜 README.md        # Project Documentation  
  ┣ 📜 LICENSE          # MIT License 
-```
+ ┣ 📜 Contact Info     # Neha Chauhan
